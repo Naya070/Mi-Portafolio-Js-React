@@ -2,12 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import mokepon from "../../Assets/Projects/mokepon.png";
+import todoapp from "../../Assets/Projects/todoapp.png";
+import arepassion from "../../Assets/Projects/arepassion.png";
+import ecommerce from "../../Assets/Projects/ecommerce.png";
+import geopulso from "../../Assets/Projects/geopulso.png";
 
 function Projects() {
   return (
@@ -23,68 +22,53 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={arepassion}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="Are-Passion"
+              description="Página web creada con Next.js para el frontend, Express para el backend, el gestor de dependencias yarn y el framework semantic ui para realizar diseños de interfaces. La página funciona como una tienda online en la cual se pueden hacer pedidos de los distintos tipos de arepas."
+              ghLink="https://github.com/Naya070/Are-Passion-Store-con-Nextjs"
+              demoLink="https://classy-tanuki-2ac4d3.netlify.app/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={todoapp}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="To-Do App"
+              description="Aplicación de lista de tareas la cual permite agregar tareas, marcarlas como realizadas, eliminarlas y buscarlas mediante su nombre. Se realizó con react.js, HTML y CSS"
+              ghLink="https://github.com/Naya070/To-Do-App"
+              demoLink="https://naya070.github.io/curso-intro-react/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={ecommerce}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="E-commerce"
+              description="Esta página funciona como un comercio online, se creó utilizando react.js, HTML, SASS, babel y webpack. "
+              ghLink="https://github.com/Naya070/Tienda-online-react"              
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={geopulso}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="Geopulso"
+              description="Este programa fue creado utilizando Python para la api y otras partes de la lógica, Tkinter(framework de python) para la interfaz gráfica y MySQL para la base de datos. Es un software de escritorio para la gestión empresarial y el cálculo de la depreciación de los equipos geofísicos requerido por la empresa Servicios Topogeofísica 2025 C.A."
+              ghLink="https://github.com/Naya070/geopulso"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={mokepon}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={emotion}
-              isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              title="Juego Mokepon"
+              description="Juego realizado con javaScript, HTML, CSS y express.js"
+              ghLink="https://github.com/Naya070/Mokepon-Game"
             />
           </Col>
         </Row>
