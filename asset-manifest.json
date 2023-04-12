@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mi-Portafolio-Js-React/static/css/main.f0438e95.css",
-    "main.js": "/Mi-Portafolio-Js-React/static/js/main.3d085322.js",
+    "main.js": "/Mi-Portafolio-Js-React/static/js/main.b32ce740.js",
     "static/js/415.4d6acbeb.chunk.js": "/Mi-Portafolio-Js-React/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Mi-Portafolio-Js-React/static/js/787.1ed0c42c.chunk.js",
     "static/media/naya.png": "/Mi-Portafolio-Js-React/static/media/naya.5c2d05ade9fc86171120.png",
@@ -16,12 +16,12 @@
     "static/media/pre.svg": "/Mi-Portafolio-Js-React/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Mi-Portafolio-Js-React/index.html",
     "main.f0438e95.css.map": "/Mi-Portafolio-Js-React/static/css/main.f0438e95.css.map",
-    "main.3d085322.js.map": "/Mi-Portafolio-Js-React/static/js/main.3d085322.js.map",
+    "main.b32ce740.js.map": "/Mi-Portafolio-Js-React/static/js/main.b32ce740.js.map",
     "415.4d6acbeb.chunk.js.map": "/Mi-Portafolio-Js-React/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Mi-Portafolio-Js-React/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0438e95.css",
-    "static/js/main.3d085322.js"
+    "static/js/main.b32ce740.js"
   ]
 }
