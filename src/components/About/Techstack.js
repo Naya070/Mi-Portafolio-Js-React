@@ -18,7 +18,6 @@ import {
   SiNodedotjs,
   SiNestjs,
   SiGraphql,
-  SiTypeorm,
   SiPostgresql,
   SiDocker,
   SiJest,

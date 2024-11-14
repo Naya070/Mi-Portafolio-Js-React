@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight, ImHeart } from "react-icons/im";
+import { ImHeart } from "react-icons/im";
 
 function AboutCard() {
   return (
