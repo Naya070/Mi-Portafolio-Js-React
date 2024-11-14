@@ -387,6 +387,27 @@ button:focus {
 /* --------- */
 /* Footer */
 /* --------- */
+
+.skill-carousel-section {
+  color: rgb(255, 255, 255) !important;
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+  padding-right: 20px;
+  text-align:left;
+  width: 390px;
+  height: 650px;
+}
+
+.custom-container {
+  background-color: rgba(182, 105, 43, 0.4);
+  border-radius: 15px;
+  padding: 10px;
+}
+
+/* --------- */
+/* Footer */
+/* --------- */
+
 .footer {
   background-color: rgb(10, 4, 22);
   bottom: 0 !important;

@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             ¡Hola! Gusto en conocerte, quiero hablarte un poco más de mí.
             Vivo en <span className="orange"> Guatire, Venezuela.</span>
-            <br />Tengo 26 años y soy egresada de la Universidad Nacional Experimental 
+            <br />Tengo 28 años y soy graduada de la Universidad Nacional Experimental 
             Politécnica "Antonio José de Sucre" como 
             <span className="orange"> ingeniera mecatrónica.</span>
             <br />
@@ -29,6 +29,9 @@ function AboutCard() {
             </li>
             <li className="about-activity">
               <ImHeart /> Dibujar.
+            </li>
+            <li className="about-activity">
+              <ImHeart /> Patinar.
             </li>
           </ul>
           <i>

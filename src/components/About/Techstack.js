@@ -14,6 +14,15 @@ import {
 } from "react-icons/di";
 import {
   SiNextdotjs,
+  SiTypescript,
+  SiNodedotjs,
+  SiNestjs,
+  SiGraphql,
+  SiTypeorm,
+  SiPostgresql,
+  SiDocker,
+  SiJest,
+  SiPostman,
 } from "react-icons/si";
 
 function Techstack() {
@@ -23,6 +32,26 @@ function Techstack() {
         <h6> JavaScript </h6>
         <DiJavascript1 />
       </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <h6> TypeScript </h6>
+        <SiTypescript />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <h6> Node.js </h6>
+        <SiNestjs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <h6> Nest.js </h6>
+        <SiNodedotjs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <h6> Graphql </h6>
+        <SiGraphql />
+      </Col>
+      {/* <Col xs={4} md={2} className="tech-icons">
+        <h6> Typeorm </h6>
+        <SiTypeorm />
+      </Col> */}
       <Col xs={4} md={2} className="tech-icons">
         <h6> Css </h6>
         <DiCss3 />
@@ -52,12 +81,28 @@ function Techstack() {
         <DiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <h6> PostgreSQL </h6>
+        <SiPostgresql />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <h6> MySQL </h6>
         <DiMysql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <h6> SQLite </h6>
         <DiSqllite />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <h6> Docker </h6>
+        <SiDocker />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <h6> Jest </h6>
+        <SiJest />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <h6> Postman </h6>
+        <SiPostman />
       </Col>
     </Row>
   );
