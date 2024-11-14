@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mi-Portafolio-Js-React/static/css/main.f0438e95.css",
-    "main.js": "/Mi-Portafolio-Js-React/static/js/main.087805ed.js",
+    "main.css": "/Mi-Portafolio-Js-React/static/css/main.548cdcb4.css",
+    "main.js": "/Mi-Portafolio-Js-React/static/js/main.15b79d8b.js",
     "static/js/415.4d6acbeb.chunk.js": "/Mi-Portafolio-Js-React/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Mi-Portafolio-Js-React/static/js/787.1ed0c42c.chunk.js",
     "static/media/naya.png": "/Mi-Portafolio-Js-React/static/media/naya.5c2d05ade9fc86171120.png",
@@ -10,19 +10,22 @@
     "static/media/arepassion.png": "/Mi-Portafolio-Js-React/static/media/arepassion.85322ab18896221f9059.png",
     "static/media/geopulso.png": "/Mi-Portafolio-Js-React/static/media/geopulso.bf776f81d4f2a6c3b8a6.png",
     "static/media/ecommerce.png": "/Mi-Portafolio-Js-React/static/media/ecommerce.aad1332a520ba44236bd.png",
+    "static/media/CV-Nayarith.pdf": "/Mi-Portafolio-Js-React/static/media/CV-Nayarith.f1f38de9109f4f431949.pdf",
     "static/media/developer_img.png": "/Mi-Portafolio-Js-React/static/media/developer_img.5550ed8b63f3a6fb1971.png",
     "static/media/computer.png": "/Mi-Portafolio-Js-React/static/media/computer.2ae9003c900d2282ca94.png",
-    "static/media/CV-Nayarith.pdf": "/Mi-Portafolio-Js-React/static/media/CV-Nayarith.1ddf15df505475cbb908.pdf",
-    "static/media/accountingrecordapp.png": "/Mi-Portafolio-Js-React/static/media/accountingrecordapp.3a68152b88c5f46fa856.png",
+    "static/media/slick.svg": "/Mi-Portafolio-Js-React/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Mi-Portafolio-Js-React/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/pre.svg": "/Mi-Portafolio-Js-React/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/slick.ttf": "/Mi-Portafolio-Js-React/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Mi-Portafolio-Js-React/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Mi-Portafolio-Js-React/index.html",
-    "main.f0438e95.css.map": "/Mi-Portafolio-Js-React/static/css/main.f0438e95.css.map",
-    "main.087805ed.js.map": "/Mi-Portafolio-Js-React/static/js/main.087805ed.js.map",
+    "main.548cdcb4.css.map": "/Mi-Portafolio-Js-React/static/css/main.548cdcb4.css.map",
+    "main.15b79d8b.js.map": "/Mi-Portafolio-Js-React/static/js/main.15b79d8b.js.map",
     "415.4d6acbeb.chunk.js.map": "/Mi-Portafolio-Js-React/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Mi-Portafolio-Js-React/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0438e95.css",
-    "static/js/main.087805ed.js"
+    "static/css/main.548cdcb4.css",
+    "static/js/main.15b79d8b.js"
   ]
 }
