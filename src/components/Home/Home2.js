@@ -6,7 +6,6 @@ import {
   AiFillGithub,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import SkillCarousel from "./SkillCarousel";
 
 function Home2() {
   return (
@@ -48,7 +47,6 @@ function Home2() {
             </Tilt>
           </Col>
         </Row>
-        <SkillCarousel />
         <Row>
           <Col md={12} className="home-about-social">
             <h1>CONTÁCTAME</h1>
